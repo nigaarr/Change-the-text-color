@@ -1,0 +1,27 @@
+/* CSS style for the greeting text */
+#greeting {
+    color: black;
+}
+/* CSS styles for the page layout */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* CSS style for the greeting text */
+h1 {
+    font-size: 24px;
+    margin: 20px;
+}
+
+/* CSS styles for the button */
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+}
